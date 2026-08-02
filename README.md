@@ -33,9 +33,16 @@ This dashboard provides a complete analysis of Formula 1 by combining historical
 ## 📷 Dashboard Preview
 
 - Home Page
+  https://raw.githubusercontent.com/Gowshik-Datahub/FORUMULA-1--POWER-BI---DASHBOARD-/refs/heads/main/Screenshots/F1%20Dashboard%20page.png
+  
 - Drivers Page
+  https://raw.githubusercontent.com/Gowshik-Datahub/FORUMULA-1--POWER-BI---DASHBOARD-/refs/heads/main/Screenshots/Driver%20Dashboard%20page.png
+  
 - Teams Page
+  https://raw.githubusercontent.com/Gowshik-Datahub/FORUMULA-1--POWER-BI---DASHBOARD-/refs/heads/main/Screenshots/Team%20Dashboard%20page.png
+  
 - Circuits Page
+  https://raw.githubusercontent.com/Gowshik-Datahub/FORUMULA-1--POWER-BI---DASHBOARD-/refs/heads/main/Screenshots/Circuit%20Dashboard%20page.png
 
 ---
 
