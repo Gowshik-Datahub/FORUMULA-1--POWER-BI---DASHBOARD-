@@ -1,0 +1,11 @@
+ConstructorID,TeamName,FullTeamName,Chassis,PowerUnit,Nationality,TeamChief,TeamEntry,Races,Wins,Podiums,Championships,FastestLaps,ConstructorStandings,ConstructorPerformance,CurrentDrivers
+1,Ferrari,Scuderia Ferrari HP,SF-24,Ferrari,Italian,Frédéric Vasseur,1950,1093,248,825,16,262,2,552 Points (2024),"Charles Leclerc, Lewis Hamilton"
+2,McLaren,McLaren Formula 1 Team,MCL38,Mercedes,British,Andrea Stella,1966,968,188,522,9,169,1,666 Points (2024),"Lando Norris, Oscar Piastri"
+3,Red Bull Racing,Oracle Red Bull Racing,RB20,Honda RBPT,Austrian,Christian Horner,2005,393,121,282,6,99,3,589 Points (2024),"Max Verstappen, Isack Hadjar"
+4,Mercedes,Mercedes-AMG Petronas F1 Team,W15,Mercedes,German,Toto Wolff,1954,317,128,298,8,109,4,468 Points (2024),"George Russell, Andrea Kimi Antonelli"
+5,Aston Martin,Aston Martin Aramco F1 Team,AMR24,Mercedes,British,Mike Krack,2018,147,1,12,0,3,5,92 Points (2024),"Fernando Alonso, Lance Stroll"
+6,Alpine,BWT Alpine F1 Team,A524,Renault,French,Oliver Oakes,1986,454,21,62,2,16,6,65 Points (2024),"Pierre Gasly, Franco Colapinto"
+7,Haas,MoneyGram Haas F1 Team,VF-24,Ferrari,American,Ayao Komatsu,2016,190,0,0,0,2,7,54 Points (2024),"Esteban Ocon, Oliver Bearman"
+8,Racing Bulls,Visa Cash App RB F1 Team,VCARB 01,Honda RBPT,Italian,Laurent Mekies,2006,378,2,5,0,4,8,46 Points (2024),"Liam Lawson, Arvid Lindblad"
+9,Williams,Williams Racing,FW46,Mercedes,British,James Vowles,1978,822,114,313,9,133,9,17 Points (2024),"Carlos Sainz, Alexander Albon"
+10,Audi / Kick Sauber,Audi Revolut F1 Team,C44,Ferrari,Swiss,Mattia Binotto,1993,488,1,27,0,7,10,4 Points (2024),"Gabriel Bortoleto, Nico Hülkenberg"
